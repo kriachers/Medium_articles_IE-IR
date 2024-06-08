@@ -3,4 +3,4 @@ nltk
 pandas
 collections
 itertools
-sklearn
+scikit-learn
