@@ -34,6 +34,8 @@ python -m pip install numpy
 python -m pip install collections
 python -m pip install itertools
 python -m pip install sklearn
+python -m pip install nltk
+
 ```
 
 3. **Data Cleaning:**
