@@ -17,9 +17,10 @@ Improving our query results with the help of a co-occurrence matrix it's been an
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/kriachers/title-generator-model.git
-   cd title-generator-model
+   git clone https://github.com/kriachers/Medium_articles_IE-IR
+   cd Medium_articles_IE-IR
    ```
+   
 
 2. **Install the required packages:**
 
