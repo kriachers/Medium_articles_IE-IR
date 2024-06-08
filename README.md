@@ -5,10 +5,8 @@
 - **data_cleaning.py** - Loads and preprocess the data
 - **inverted_index.py** - Creates inversted indexing
 - **query_expantion_wordnet_syn.py** - Query expansion (wordnet - synonyms)
-We tried to do query expansion by expanding our query with synonyms.
-In our case it didn't work well, because as already expected wordnet doesn't really contain any synonyms related to do AI jargon. For a more common language usage would have been great and the results would have improved with certainty.
 - **query_expansion_matrix.py** - Query expansion (co-occurrence matrix)
-Improving our query results with the help of a co-occurrence matrix it's been another option for us.
+Improving our query results with the help of a co-occurrence matrix.
 - **tf_idf_cos_sim.py** - Tf-idf Indexing and Cosine Similarity. This is the module with the best version of search
 - **evaluation.py** - Evaluation (precision, recall, f1_score, nDCG)
 
