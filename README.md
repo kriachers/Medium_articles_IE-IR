@@ -26,6 +26,16 @@ Improving our query results with the help of a co-occurrence matrix.
 pip install -r requirements.txt
 ```
 
+OR type following commands in the terminal
+
+```
+python -m pip install pandas
+python -m pip install numpy
+python -m pip install collections
+python -m pip install itertools
+python -m pip install sklearn
+```
+
 3. **Data Cleaning:**
 
 Use data_cleaning.py to load the dataset:
