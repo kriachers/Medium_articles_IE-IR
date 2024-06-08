@@ -29,12 +29,12 @@ pip install -r requirements.txt
 OR type following commands in the terminal
 
 ```
-python pip install pandas
-python pip install numpy
-python pip install collections
-python pip install itertools
-python pip install sklearn
-python pip install nltk
+ pip install pandas
+ pip install numpy
+ pip install collections
+ pip install itertools
+ pip install scikit-learn
+ pip install nltk
 
 ```
 
